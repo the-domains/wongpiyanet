@@ -1,0 +1,14 @@
+layout_spectrum: 0.05587554327212274
+typography_spectrum: 0.4201311229262501
+color:
+  brandStrength: 0.7832861475180835
+  lightness: 0.6434996193274856
+  saturation: 0.40603728080168366
+  rhythmicContrast: 0.01290993089787662
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: wongpiya.net
